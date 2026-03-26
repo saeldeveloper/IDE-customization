@@ -37,9 +37,9 @@
     "editor.linkedEditing": true, // Edición enlazada de etiquetas o pares
     "editor.defaultFormatter": "esbenp.prettier-vscode", // Formato predeterminado: Prettier
     "[javascript]": {
-      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
     }, // Prettier como formateador de JavaScript
-    "color-highlight.markRuler": false, // Fuente personalizada para el editor
+    "color-highlight.markRuler": false, // Desactiva la regla de resaltado de colores
     "editor.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', monospace", // Fuente personalizada para el editor
     "editor.fontWeight": "300", // Peso de fuente base (300 = Light)
     "editor.fontLigatures": true, // Activa ligaduras tipográficas (fuentes programáticas)
@@ -62,8 +62,5 @@
     "claudeCode.preferredLocation": "panel",
     "update.releaseTrack": "prerelease",
     "window.menuBarVisibility": "compact",
-    "workbench.settings.applyToAllProfiles": [
-      
-    ],
   }
   
